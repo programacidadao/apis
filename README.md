@@ -3,5 +3,5 @@
 Cache das APIs estruturadas para o app Programa Cidadão:
 
 - Terras indígenas homologadas
-- Indicadores Educação
+- Indicadores de Educação
 - Quantidade de Unidades Básicas de Saúde
